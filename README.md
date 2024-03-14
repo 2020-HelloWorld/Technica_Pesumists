@@ -4,7 +4,7 @@
 
 **Solution:**
 
-![image](https://github.com/2020-HelloWorld/Technica_Pesumists/assets/79002833/c0ff1936-7ea2-41a0-a296-cd3decb2416b)
+![image](https://github.com/2020-HelloWorld/Technica_Pesumists/assets/79002833/b34f9a73-6a7b-45d3-b555-77458492b04d)
 
 ![image](https://github.com/2020-HelloWorld/Technica_Pesumists/assets/79002833/46bf8550-0024-4977-8859-2e2db7a0a0e1)
 
