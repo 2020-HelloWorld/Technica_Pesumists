@@ -11,6 +11,9 @@
 **Team:**
 ![image](https://github.com/2020-HelloWorld/Technica_Pesumists/assets/79002833/034c150a-a30f-4f76-9991-86c497a9fe04)
 
+**Tech Stack:**
+![image](https://github.com/2020-HelloWorld/Technica_Pesumists/assets/79002833/e129386e-9524-4aa3-933a-be947ce84cd1)
+
 **Track:** Open Innovation
 **Problem Statement:**
 Despite having advanced next-generation firewalls in place, there remains a significant risk of unauthorized data transfer going undetected within the network.
